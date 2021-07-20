@@ -1,7 +1,7 @@
 from googletrans import Translator
 
 tr = Translator(service_urls=[
-      'translate.google.com.hk',
+      'translate.google.com',
     ])
 
 def a():
